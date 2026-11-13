@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.1",
+    "nodemailer": "^10.2.1",
+    "nodemon": "^3.1.14",
+    "zod": "^4.6.7"
+  },
+  "name": "nt_28-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
